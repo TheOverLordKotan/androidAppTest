@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Proyecto Final</string>
+    <string name="action_add">Adicionar</string>
+    <string name="item_name">Nuevo Item</string>
+    <string name="item_desc">Descripcion</string>
+    <string name="add_item">Nuevo recurso</string>
+    <string name="cancel">cancel</string>
+    <string name="dialog_title">Nuevos Items</string>
+    <string name="store_name">Nombre Tiemda</string>
+    <string name="title_activity_store">Lista de todor</string>
+    <string name="action_alarm">Alarma</string>
+</resources>
